@@ -1,0 +1,4 @@
+Vou tentar prever tendencias no valor das acoes, dividindo o set 
+em treino e teste, utilizando a média movél e suavização exponencial
+na parte de treino, para posteriormente avaliar o modelo preditivo com a
+parte de teste.
