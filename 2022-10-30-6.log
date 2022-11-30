@@ -5,7 +5,7 @@
 [17:36:17] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
 [17:36:17] [Server thread/INFO]: Debug logging is disabled
 [17:36:17] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[17:36:17] [Server thread/INFO]: Server Ping Player Sample    Count: 12
+[17:36:17] [Server thread/INFO]: Server Ping Player Sample    Count: 12   
 
 [17:36:17] [Server thread/INFO]: Using 4 threads for Netty based IO
 [17:36:17] [Server thread/INFO]: Data value allowed items: 
